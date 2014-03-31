@@ -5,7 +5,7 @@
 	define('DB_PASS', 'root');
 	define('DB_PREF', 'qqmsg_');
 	define('AUTH_PW', 'test');
-	define('CACHE_DIR', '/../data/cache/');
+	define('CACHE_DIR', QQMSG_ROOT.'/cache/');
 	define('RECORD_PER_PAGE', 50);
 
 	$table_sql = "CREATE TABLE IF NOT EXISTS `<table_name>` (

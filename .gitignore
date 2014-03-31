@@ -1,2 +1,3 @@
 /cache/*.php
 /raw/*.txt
+/inc/config.inc.php
